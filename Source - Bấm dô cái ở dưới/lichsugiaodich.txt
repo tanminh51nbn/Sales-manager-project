@@ -1,0 +1,3 @@
+ID              Gia             So luong        Tong tien
+Sat May 13 08:03:32 2023
+dep001          60              1               60
